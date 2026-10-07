@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "SwitchPCB")(type "KiCad")(uri "${KIPRJMOD}/SwitchPCB.kicad_sym")(options "")(descr "3PDT footswitch symbol"))
+)

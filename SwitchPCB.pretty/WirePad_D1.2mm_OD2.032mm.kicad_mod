@@ -1,0 +1,8 @@
+(footprint "WirePad_D1.2mm_OD2.032mm" (version 20241229) (generator "pcbnew") (generator_version "9.0") (layer "F.Cu")
+	(descr "Wire / ribbon solder pad, 1.2 mm hole, 2.032 mm pad (as the Eagle SwitchPCB pads). 2.54 mm pitch rows.")
+	(attr through_hole)
+	(property "Reference" "REF**" (at 0 -2 0) (layer "F.Fab") (hide yes) (uuid "ffc46812-0ce1-4fcb-adc6-c52c59e6c14e") (effects (font (size 0.8 0.8) (thickness 0.15))))
+	(property "Value" "PAD" (at 0 2 0) (layer "F.Fab") (hide yes) (uuid "0001dde3-0f64-4c05-a0fa-0b1d4c49839e") (effects (font (size 0.8 0.8) (thickness 0.15))))
+	(fp_rect (start -1.27 -1.27) (end 1.27 1.27) (stroke (width 0.05) (type solid)) (fill no) (layer "F.CrtYd") (uuid "42abdc2f-4631-4c94-8f62-6afd02af2ddc"))
+	(pad "1" thru_hole circle (at 0 0) (size 2.032 2.032) (drill 1.2) (layers "*.Cu" "*.Mask") (remove_unused_layers no) (uuid "28d3af99-7a01-4904-a13b-cefe019c3553"))
+)

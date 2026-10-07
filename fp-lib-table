@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SwitchPCB")(type "KiCad")(uri "${KIPRJMOD}/SwitchPCB.pretty")(options "")(descr "3PDT footswitch board parts"))
+)
