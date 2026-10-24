@@ -1,0 +1,8 @@
+Reference,Value,Footprint,Side,X mm,Y mm,Rotation,LCSC,Fitted by
+J1,IN JACK,SwitchPCB:WirePad_D1.2mm_OD2.032mm,front,102.22,102.21,0.0,,hand
+J2,IN,SwitchPCB:WirePad_D1.2mm_OD2.032mm,front,104.77,102.21,0.0,,hand
+J3,LED,SwitchPCB:WirePad_D1.2mm_OD2.032mm,front,107.31,102.21,0.0,,hand
+J4,GND,SwitchPCB:WirePad_D1.2mm_OD2.032mm,front,109.84,102.21,0.0,,hand
+J5,OUT,SwitchPCB:WirePad_D1.2mm_OD2.032mm,front,112.39,102.21,0.0,,hand
+J6,OUT JACK,SwitchPCB:WirePad_D1.2mm_OD2.032mm,front,114.92,102.21,0.0,,hand
+SW1,3PDT,SwitchPCB:3PDT_Footswitch_Lugs,back,108.58,112.37,0.0,,hand
